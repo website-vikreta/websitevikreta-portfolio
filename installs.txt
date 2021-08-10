@@ -1,3 +1,5 @@
 npx create-react-app portfolio
 
 npm install react-router-dom framer-motion react-intersection-observer styled-components
+
+some chages
